@@ -17,7 +17,7 @@
 * Network Security
 
 ### 📔 My Blog
-<a href="링크는 나중에" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flag-square&logo=notion&logoColor=white"/></a>
+<a href="https://velog.io/@jiyoulee" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flag-square&logo=notion&logoColor=white"/></a>
 
 ### 📞 Find me at  
 <a href="https://profile.intra.42.fr/users/jiyoulee" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/></a>
