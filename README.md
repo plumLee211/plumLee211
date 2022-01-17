@@ -17,7 +17,7 @@
 * Network Security
 
 ### 📔 My Blog
-<a href="https://velog.io/@jiyoulee" target="_blank">
+<a href="https://velog.io/@jiyoulee" target="_blank"></a>
 <a href="https://www.notion.so/37abde4fa78a471ba3fb5587624ab9a1" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flag-square&logo=notion&logoColor=white"/></a>
 
 ### 📞 Find me at  
