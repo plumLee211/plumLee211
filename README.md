@@ -13,8 +13,6 @@
 
 ## 👀 I'm Interested in
 * AI (Artificial Intelligence)
-* SQL
-* Network Security
 
 ### 📔 My Blog
 <a href="https://velog.io/@jiyoulee" target="_blank"></a>
