@@ -11,9 +11,6 @@
 ## 🏆 My Activity
 * I am currently working on 42seoul subjects (South Korea branch of 42 ecole)
 
-## 👀 I'm Interested in
-* AI (Artificial Intelligence)
-
 ### 📔 My Blog
 <a href="https://velog.io/@jiyoulee" target="_blank"></a>
 <a href="https://www.notion.so/37abde4fa78a471ba3fb5587624ab9a1" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flag-square&logo=notion&logoColor=white"/></a>
