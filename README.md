@@ -1,23 +1,25 @@
 ### Hi there 👋  I am Jiyoung Lee (Joanne).
 
 ## 📌 Skills
-<a target=""><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/></a>
-<a target=""><img src="https://img.shields.io/badge/C++-blue?style=flat-square&logo=cplusplus&logoColor=white"/></a>
-<a target=""><img src="https://img.shields.io/badge/mariaDB-192C5F?style=flat-square&logo=mariadb&logoColor=C1775A"/></a>
-<a target=""><img src="https://img.shields.io/badge/MySQL-F29111?style=flat-square&logo=mysql&logoColor=00758F"/></a>
-<a target=""><img src="https://img.shields.io/badge/Linux-306998?style=flat-square&logo=linux&logoColor=white"/></a>
-<a target=""><img src="https://img.shields.io/badge/Docker-384d54?style=flat-square&logo=docker&logoColor=0db7ed"/></a>
-<a target=""><img src="https://img.shields.io/badge/git-ffffff?style=flat-square&logo=git&logoColor=F1502F"/></a>
-<a target=""><img src="https://img.shields.io/badge/VMBox-white?style=flat-square&logo=virtualbox&logoColor=black"/></a>
-<a target=""><img src="https://img.shields.io/badge/debian-d70a53?style=flat-square&logo=debian&logoColor=white"/></a>
+### Languages
+<a target=""><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
+<a target=""><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
+<a target=""><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+### Frameworks
+<a target=""><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/></a>
+### DataBase
+<a target=""><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>
+<a target=""><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+### Others
+<a target=""><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
+<a target=""><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
+<a target=""><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
 
 ----
 
 ## 👍 I am interested in...
+* Backend Development
 * DataBase & Architecture
-* Web Development (Backend)
-* AI
-* Network Security
 * Automation
 * System Optimization
 
@@ -25,7 +27,7 @@
 
 ## 🏆 My Activity
 
-* (22.08 ~ ) DB monitoring solution QA, MySQL/MariaDB researcher/instructor
+* (22.08 ~ ) 
 * (21.4 ~ 22.05) 42Seoul Cadet
 
 ----
