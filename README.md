@@ -49,6 +49,6 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/easy000211@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <br></br>
 
-![plumLee211's GitHub stats](https://my-stats-it7x.vercel.app/api?username=plumlee211&show_icons=true&theme=vue&hide=stars,contribs&count_private=true)
+![plumLee211's GitHub stats](https://my-stats-it7x.vercel.app/api?username=plumlee211&show_icons=true&theme=vue&count_private=true)
 
-![plumLee211's Top Langs](https://my-stats-it7x.vercel.app/api/top-langs/?username=plumlee211&layout=compact)
+![plumLee211's Top Langs](https://my-stats-it7x.vercel.app/api/top-langs/?username=plumlee211&count_private=true)
