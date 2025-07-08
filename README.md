@@ -52,3 +52,7 @@
 ![plumLee211's GitHub stats](https://my-stats-it7x.vercel.app/api?username=plumlee211&show_icons=true&theme=vue&count_private=true)
 
 ![plumLee211's Top Langs](https://my-stats-it7x.vercel.app/api/top-langs/?username=plumlee211&count_private=true)
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{plumlee211}?pet-id=1" width="1000" height="120"/>
+</a>
