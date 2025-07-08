@@ -1,5 +1,13 @@
 ### Hi there 👋  I am Jiyoung Lee (Joanne).
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=plumLee211&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/plumLee211"
+  width="600"
+  height="300"
+/>
+</a>
+
 ## 📌 Skills
 ### Languages
 <a target=""><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=ffdd54"/></a>
@@ -52,7 +60,3 @@
 ![plumLee211's GitHub stats](https://my-stats-it7x.vercel.app/api?username=plumlee211&show_icons=true&theme=vue&count_private=true)
 
 ![plumLee211's Top Langs](https://my-stats-it7x.vercel.app/api/top-langs/?username=plumlee211&count_private=true)
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{plumlee211}?pet-id=1" width="1000" height="120"/>
-</a>
